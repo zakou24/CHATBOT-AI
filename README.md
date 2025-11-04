@@ -1,6 +1,6 @@
 # 🤖 CHATBOT AI
 
-![Chatbot AI Interface Preview](https://github.com/zakou24/chatbotAI/assets/app-screen-example.png)
+![Chatbot AI Interface Preview](https://github.com/zakou24/CHATBOT-AI/blob/main/assets/app-screen-example.png)
 
 A **modern, responsive AI chat interface** that seamlessly integrates **real-time web search** capabilities to enhance conversational depth and accuracy.
 
@@ -22,7 +22,7 @@ A **modern, responsive AI chat interface** that seamlessly integrates **real-tim
 
 ## 🔀 Graph Workflow
 
-![Chatbot AI Graph WorkFlow Preview](https://github.com/zakou24/chatbotAI/assets/workflow-graph.png)
+![Chatbot AI Graph WorkFlow Preview](https://github.com/zakou24/CHATBOT-AI/blob/main/assets/workflow-graph.png)
 
 ### 🖥️ Client — Next.js + React
 
